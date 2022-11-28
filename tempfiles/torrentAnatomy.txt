@@ -1,0 +1,19 @@
+d   // словарь с метаинфой для торрента
+ 8:announce  // - ключ
+     41:http://bttracker.debian.org:6969/announce  //- значение
+ 7:comment
+     35:"Debian CD from cdimage.debian.org"
+ 13:creation date
+     i1657367681e
+ 9:httpseeds
+     l146:https://cdimage.debian.org/cdimage/release/edu//srv/cdbuilder.debian.org/dst/deb-cd/weekly-builds/amd64/iso-cd/debian-edu-11.4.0-amd64-netinst.iso146:https://cdimage.debian.org/cdimage/archive/edu//srv/cdbuilder.debian.org/dst/deb-cd/weekly-builds/amd64/iso-cd/debian-edu-11.4.0-amd64-netinst.isoe
+ 4:info
+    d // вложенный словарь
+     6:length
+         i461373440e
+     4:name
+         35:debian-edu-11.4.0-amd64-netinst.iso
+     12:piece length
+        i262144e
+     6:pieces
+        35200:l[массив хешей для каждого фрагмента]e
